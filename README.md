@@ -1,16 +1,41 @@
-# ecommerce_store
+# Ecommerce Store 
 
-A new Flutter project.
+ScreenShots
 
-## Getting Started
+1.Loginpage
 
-This project is a starting point for a Flutter application.
+![loginpage](loginpage.PNG)
 
-A few resources to get you started if this is your first Flutter project:
+2.HomePage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![homepage1](homepage1.PNG)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3.HomePage
+
+![homepage2](homepage2.PNG)
+
+4.HomePage
+
+![homepage3](homepage3.PNG)
+
+5.CategoryPage
+
+![categorypage](categorypage.PNG)
+
+6.CartPage
+
+![cartpage](cartpage.PNG)
+
+7.FavoritePage
+
+![favoritepage](favoritepage.PNG)
+
+8.ProfilePage
+
+![profilepage](profilepage.PNG)
+
+
+
+
+--Bloc Cubit StateManagement 
+--Ecomerce Store APIS
